@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Olexxee
 - 👀 I’m interested in Web development and application development.
-- 🌱 I’m currently learning Html and Css
 - 💞️ I’m looking to collaborate on Javascript 
 - 📫 How to reach me 07046399965
 - 😄 Pronouns: He
